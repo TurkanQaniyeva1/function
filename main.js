@@ -2,13 +2,13 @@
 
 
 
-// function daire() {
-//     let radius = parseInt(prompt("Dairenin radiusunu daxil edin:"));
-//     let area = Math.PI * r * r;
-//     alert("Dairenin alanı: " + area);
-// }
+function daire() {
+    let r = parseInt(prompt("Dairenin radiusunu daxil edin:"));
+    let area = 3 * r * r;
+    alert("Dairenin alanı: " + area);
+}
 
-// daire();
+daire();
 
 
 
